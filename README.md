@@ -1,1 +1,5 @@
-# ntile_test_task
+# Сортування файлів
+
+Завдання:
+
+![task](task.png)
